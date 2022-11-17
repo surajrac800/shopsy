@@ -1,0 +1,9 @@
+----------------Cloud computing Practicals-----------------------------------------------------------  |
+                                                                                                       |
+1st prac: intro to cloud computing(Cloud architecture NIST based, Delivery models and service models)  |
+2nd prac: installaation and usage of dropbox(SAAS) also include comparison of dropbox and g-drive      |
+3rd prac: example of application as a SERVICE OR SAAS (Live.com)                                       |
+4th prac: Explain vitualization and its concept vmware,virtualbox)                                     |
+5th prac: intro to AWS casestudy                                                                       |
+6th prac: (Veeracrypt)                                                                                 |
+--------------------------------------------------------------------------------------------------------
