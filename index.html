@@ -563,43 +563,7 @@
         </div>
     </section>
 
-    <!-- review section ends -->
 
-    <!-- newsletter section starts  -->
-
-<!--     <?php
-    if ($_SERVER['REQUEST_METHOD'] == 'POST') {
-        $name = $_POST['name'];
-        $email = $_POST['email'];
-        $subject = $_POST['subject'];
-        $message = $_POST['message'];
-
-        //submit these to database
-
-        $servername = "localhost";
-        $username = "root";
-        $password = "";
-        $database = "shoes";
-        $conn = mysqli_connect($servername, $username, $password, $database);
-        if (!$conn) {
-            die("sorry we failed to connect" . mysqli_connect_error());
-        } else {
-            echo "connect is successfully";
-            // submit these to database
-            $sql = "INSERT INTO `shop` (`name`, `email`, `subject`, `message`, `dt`) VALUES ('$name', '$email', '$subject', '$message', current_timestamp())";
-            $result = mysqli_query($conn, $sql);
-
-            if ($result) {
-                echo '<div class="alert alert-warning alert-dismissible fade show" role="alert">
-  <strong>success!</strong>your entry  has been submitted successfully!
-  <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
-</div>';
-            } else {
-<!--                 echo "The table was not created successfully because this errror---->" . mysqli_error($conn); -->
-            }
-        }
-    }
-    ?> -->
     <!-- <section id="contact"> -->
         <section class="newsletter">
 
